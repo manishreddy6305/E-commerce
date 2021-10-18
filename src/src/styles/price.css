@@ -1,0 +1,14 @@
+.card-price{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.card-red{
+    color: red;
+    margin-right: 7px;
+}
+.card-through{
+    text-decoration: line-through;
+    color: rgb(211, 208, 208);
+}

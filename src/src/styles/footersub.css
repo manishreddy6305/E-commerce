@@ -1,0 +1,11 @@
+.footersub{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.footersubc{
+    font-size: 10px;
+    color: rgb(94, 89, 89);
+    margin: 5px;
+}
