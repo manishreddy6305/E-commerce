@@ -1,0 +1,36 @@
+.card2-main{
+    display:flex;
+    justify-content: space-between;
+    width: 25%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.card2-sub{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+.card2-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    border: 2px solid rgb(248, 244, 244) ;
+    border-radius: 3px;
+}
+.card2-rating{
+    display: flex;
+    margin-top: 30px;
+}
+.headphone{
+    width: 80%;
+    padding:10px;
+}
+.card2-main:hover{
+    transform: scale(1.1);
+    border: 2px solid rgb(228, 220, 220); 
+    border-radius: 4px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

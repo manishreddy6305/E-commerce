@@ -1,0 +1,35 @@
+.image1{
+    width: 100%;
+    height: 514.3;
+    margin-top: 60px;
+}
+.hp{
+    width: 100%;
+}
+.companyf-main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.companyf-sub{
+    display: flex;
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.fd{
+    text-align: center;
+    margin-top: 50px ;
+}
+.slider{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.slider-sub{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
